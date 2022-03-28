@@ -1,3 +1,12 @@
+// add to local storage item button
+const addItem = () => {
+    console.log('addItem');
+}
+// remove to local storage item button
+const removeItem = () => {
+    console.log('removeItem');
+}
+
 const product = {};
 
 const addToProduct = item => {
